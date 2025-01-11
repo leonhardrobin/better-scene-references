@@ -1,2 +1,1 @@
-# Unity-Template
-Template Repository for Unity Projects
+# Better Scene References
