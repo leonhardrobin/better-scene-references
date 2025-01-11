@@ -1,7 +1,7 @@
 {
-    "name": "com.lrs.better_scene_references",
-    "version": "0.0.5",
-    "displayName": "Better Scene References",
-    "description": "A handy scene reference type with a scene reference manager to use them more easily.",
-    "author": "Leonhard Robin Schnaitl"
+  "name": "com.lrs.better_scene_references",
+  "version": "1.0.0",
+  "displayName": "Better Scene References",
+  "description": "A SceneReference type that is serializable, custom inspector to add drag and drop scenes and add them to the build settings. Static SceneReferenceManager to use the new type by default. No more using strings SceneAsset and on validate to manage scenes!",
+  "author": "Leonhard Robin Schnaitl"
 }
