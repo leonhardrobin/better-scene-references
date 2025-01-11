@@ -1,0 +1,7 @@
+{
+    "name": "com.lrs.better_scene_references",
+    "version": "0.0.5",
+    "displayName": "Better Scene References",
+    "description": "A handy scene reference type with a scene reference manager to use them more easily.",
+    "author": "Leonhard Robin Schnaitl"
+}
